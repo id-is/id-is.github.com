@@ -1,0 +1,12 @@
+## Research
+
+### AI for improving productivity
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non sollicitudin sapien. Pellentesque commodo dui ac pulvinar facilisis. Nam tristique volutpat mauris, non venenatis enim ultricies et. Phasellus at dignissim velit. Etiam sit amet nulla tortor. Curabitur vulputate quam ut metus convallis, eu malesuada libero facilisis. Donec efficitur posuere scelerisque. Aenean magna ante, cursus eget vehicula et, imperdiet et dui. Nulla enim diam, varius et ante sit amet, posuere fringilla nibh. Cras vestibulum arcu a orci bibendum ullamcorper. Ut pretium odio ipsum, suscipit maximus risus scelerisque ullamcorper. Nam vel posuere turpis, ut auctor dui. Vestibulum tincidunt faucibus scelerisque. Nullam vitae nulla consectetur, elementum orci eu, tempor purus.
+
+### AI for data-intensive research
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non sollicitudin sapien. Pellentesque commodo dui ac pulvinar facilisis. Nam tristique volutpat mauris, non venenatis enim ultricies et. Phasellus at dignissim velit. Etiam sit amet nulla tortor. Curabitur vulputate quam ut metus convallis, eu malesuada libero facilisis. Donec efficitur posuere scelerisque. Aenean magna ante, cursus eget vehicula et, imperdiet et dui. Nulla enim diam, varius et ante sit amet, posuere fringilla nibh. Cras vestibulum arcu a orci bibendum ullamcorper. Ut pretium odio ipsum, suscipit maximus risus scelerisque ullamcorper. Nam vel posuere turpis, ut auctor dui. Vestibulum tincidunt faucibus scelerisque. Nullam vitae nulla consectetur, elementum orci eu, tempor purus.
+
+### Catalogues & Vocabularies
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non sollicitudin sapien. Pellentesque commodo dui ac pulvinar facilisis. Nam tristique volutpat mauris, non venenatis enim ultricies et. Phasellus at dignissim velit. Etiam sit amet nulla tortor. Curabitur vulputate quam ut metus convallis, eu malesuada libero facilisis. Donec efficitur posuere scelerisque. Aenean magna ante, cursus eget vehicula et, imperdiet et dui. Nulla enim diam, varius et ante sit amet, posuere fringilla nibh. Cras vestibulum arcu a orci bibendum ullamcorper. Ut pretium odio ipsum, suscipit maximus risus scelerisque ullamcorper. Nam vel posuere turpis, ut auctor dui. Vestibulum tincidunt faucibus scelerisque. Nullam vitae nulla consectetur, elementum orci eu, tempor purus.
+
+## Latest News
