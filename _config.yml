@@ -153,7 +153,47 @@ ContentIndex:
   I3: (I3) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mauris eros, non imperdiet mi cursus vitae. Donec aliquam hendrerit urna, nec vestibulum mi faucibus in. Curabitur in lectus sit amet nisl condimentum mollis. Nullam in hendrerit erat, sed euismod turpis. Ut vitae nibh sed augue dignissim pulvinar. Nunc bibendum dolor id pharetra mollis. Sed a tristique purus. Donec suscipit dui sed orci cursus volutpat. Vivamus nec nunc porttitor, consectetur massa iaculis, vestibulum erat.
 
 ContentTeam:
-  FormerNames:
-    - "User1"
-    - "John Doooe"
-    - "User2"
+  CurrentMembers:
+  - Name: "Current1"
+    Title: "Title1"
+    Image: "https://id-is.github.io/assets/images/team/user.png"
+  - Name: "Current2"
+    Title: "Title2" 
+    Image: "https://id-is.github.io/assets/images/team/user.png"
+  - Name: "Current3"
+    Title: "Title3" 
+    Image: "https://id-is.github.io/assets/images/team/user.png"
+  - Name: "Current4"
+    Title: "Title4" 
+    Image: "https://id-is.github.io/assets/images/team/user.png"
+  FormerMembers:
+  - Name: "Former1"
+    Image: "https://id-is.github.io/assets/images/team/user.png"
+  - Name: "Former2"
+    Image: "https://id-is.github.io/assets/images/team/user.png"
+  - Name: "Former3"
+    Image: "https://id-is.github.io/assets/images/team/user.png"
+  - Name: "Former4"
+    Image: "https://id-is.github.io/assets/images/team/user.png"
+  - Name: "Former5"
+    Image: "https://id-is.github.io/assets/images/team/user.png"
+
+ContentProjects:
+  CurrentProjects:
+    - Name: "Project1"
+      Description: "Description 1"
+      Image: "https://id-is.github.io/assets/images/team/user.png" 
+    - Name: "Project2"
+      Description: "Description 2"
+      Image: "https://id-is.github.io/assets/images/team/user.png" 
+    - Name: "Project3"
+      Description: "Description 3"
+      Image: "https://id-is.github.io/assets/images/team/user.png" 
+    - Name: "Project4"
+      Description: "Description 4"
+      Image: "https://id-is.github.io/assets/images/team/user.png" 
+  
+ContentPublications:
+  Y2020:
+    - "Hello"
+     
