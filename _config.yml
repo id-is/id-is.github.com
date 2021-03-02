@@ -147,3 +147,13 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+ContentIndex:
+  I1: (I1) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mauris eros, non imperdiet mi cursus vitae. Donec aliquam hendrerit urna, nec vestibulum mi faucibus in. Curabitur in lectus sit amet nisl condimentum mollis. Nullam in hendrerit erat, sed euismod turpis. Ut vitae nibh sed augue dignissim pulvinar. Nunc bibendum dolor id pharetra mollis. Sed a tristique purus. Donec suscipit dui sed orci cursus volutpat. Vivamus nec nunc porttitor, consectetur massa iaculis, vestibulum erat.
+  I2: (I2) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mauris eros, non imperdiet mi cursus vitae. Donec aliquam hendrerit urna, nec vestibulum mi faucibus in. Curabitur in lectus sit amet nisl condimentum mollis. Nullam in hendrerit erat, sed euismod turpis. Ut vitae nibh sed augue dignissim pulvinar. Nunc bibendum dolor id pharetra mollis. Sed a tristique purus. Donec suscipit dui sed orci cursus volutpat. Vivamus nec nunc porttitor, consectetur massa iaculis, vestibulum erat.
+  I3: (I3) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mauris eros, non imperdiet mi cursus vitae. Donec aliquam hendrerit urna, nec vestibulum mi faucibus in. Curabitur in lectus sit amet nisl condimentum mollis. Nullam in hendrerit erat, sed euismod turpis. Ut vitae nibh sed augue dignissim pulvinar. Nunc bibendum dolor id pharetra mollis. Sed a tristique purus. Donec suscipit dui sed orci cursus volutpat. Vivamus nec nunc porttitor, consectetur massa iaculis, vestibulum erat.
+
+ContentTeam:
+  FormerNames:
+    - "User1"
+    - "John Doooe"
+    - "User2"
