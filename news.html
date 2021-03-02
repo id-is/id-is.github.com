@@ -13,6 +13,7 @@ canonical: https://heliumjk.github.io/blog
 
 
 {% for post in site.posts %}
+{% if post.categories contains 'news' %}
 	  <div class="blog-block post-content-area">
 	   {% if post.img %}	  
             <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image">
@@ -24,4 +25,5 @@ canonical: https://heliumjk.github.io/blog
             </div>
           </div>
 	  <div class="mb-60"></div>
+{% endif %}
 {% endfor %}
