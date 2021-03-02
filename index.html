@@ -1,0 +1,123 @@
+---
+layout: index
+title : Intelligent Data-Intensive Systems
+tagline: 
+css: 
+js: sliders.js
+keywords: 
+canonical: https://heliumjk.github.io
+---
+{% include JB/setup %}
+<!-- Content Area Start -->
+<div id="content">
+      <!-- sliders -->
+      <div id="sliders">
+        <div class="full-width">
+          <!-- light slider -->
+          <div id="light-slider" class="carousel slide">
+            <div id="carousel-area">
+              <div id="carousel-slider" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                  <li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
+                  <!-- Add this if more in slider -->
+                  <!-- <li data-target="#carousel-slider" data-slide-to="1"></li>
+                  <li data-target="#carousel-slider" data-slide-to="2"></li> -->
+                </ol>
+                <div class="carousel-inner" role="listbox">
+                  <div class="carousel-item active">
+                    <img src="{{ BASE_PATH }}/assets/images/slider/bgtest.jpg" alt="">
+                    <div class="carousel-caption">
+                      <h3 class="slide-title animated fadeInDown"><span class="text-warning">Intelligent</span> Data-Intensive Systems</h3>
+                      <h5 class="slide-text animated fadeIn">Be a part of the team.</h5>
+                      <a href="#features" class="btn btn-lg btn-default-filled animated fadeInUp">Work Opportunities</a>
+                      <a href="#features" class="btn std-btn btn-lg btn-info-filled animated fadeInUp">Study Opportunities</a>
+                    </div>
+                  </div>
+                </div>
+                <a class="carousel-control-prev" href="#carousel-slider" role="button" data-slide="prev">
+                  <span class="carousel-control carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carousel-slider" role="button" data-slide="next">
+                  <span class="carousel-control carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End sliders -->
+  <div class="mb-60"></div>
+  <div class="page-header-title">
+    <h2 class="heading-title text-center">Research</h2>
+  </div>
+  <div class="container">
+    <!--- AI FOR IMPROVING PRODUCTIVITY START-->
+      <div class="row">
+        <div class="col-sm-9">
+          <h2>AI for improving productivity</h2>
+          <blockquote>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mauris eros, non imperdiet mi cursus vitae. Donec aliquam hendrerit urna, nec vestibulum mi faucibus in. Curabitur in lectus sit amet nisl condimentum mollis. Nullam in hendrerit erat, sed euismod turpis. Ut vitae nibh sed augue dignissim pulvinar. Nunc bibendum dolor id pharetra mollis. Sed a tristique purus. Donec suscipit dui sed orci cursus volutpat. Vivamus nec nunc porttitor, consectetur massa iaculis, vestibulum erat. 
+            </p>
+          </blockquote>
+        </div>
+      </div>
+    <!--- AI FOR IMPROVING PRODUCTIVITY END-->
+    <!--- AI FOR DATA-INTENSIVE RESEARCH START -->
+      <div class="row">
+        <div class="col-sm-3">
+          <blockquote>
+          </blockquote>
+        </div>
+        <div class="col-sm-9">
+          <blockquote class="blockquote-reverse">
+            <h2>AI for data-intensive research</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mauris eros, non imperdiet mi cursus vitae. Donec aliquam hendrerit urna, nec vestibulum mi faucibus in. Curabitur in lectus sit amet nisl condimentum mollis. Nullam in hendrerit erat, sed euismod turpis. Ut vitae nibh sed augue dignissim pulvinar. Nunc bibendum dolor id pharetra mollis. Sed a tristique purus. Donec suscipit dui sed orci cursus volutpat. Vivamus nec nunc porttitor, consectetur massa iaculis, vestibulum erat. </p>
+          </blockquote>
+        </div>
+      </div>
+    <!--- AI FOR DATA-INTENSIVE RESEARCH END -->
+    <!--- CATALOGUES & VOCABULARIES START-->
+    <div class="row">
+      <div class="col-sm-9">
+        <h2>Catalogues & vocabularies</h2>
+        <blockquote>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mauris eros, non imperdiet mi cursus vitae. Donec aliquam hendrerit urna, nec vestibulum mi faucibus in. Curabitur in lectus sit amet nisl condimentum mollis. Nullam in hendrerit erat, sed euismod turpis. Ut vitae nibh sed augue dignissim pulvinar. Nunc bibendum dolor id pharetra mollis. Sed a tristique purus. Donec suscipit dui sed orci cursus volutpat. Vivamus nec nunc porttitor, consectetur massa iaculis, vestibulum erat. 
+          </p>
+        </blockquote>
+      </div>
+    </div>
+    <!--- CATALOGUES & VOCABULARIES END -->
+  </div>
+
+  <div class="mb-60"></div>
+	
+  <div class="container">
+    <h2>Latest News</h2>
+  </div>
+
+  <div class="mb-60"></div>
+
+
+  <!-- posts carousel -->
+  <section id="blog">
+    <div class="container">                              
+      <div id="posts-carousel" class="owl-carousel">
+        {% for post in site.posts %}     
+        <div class="blog-block blog block carousel-post">
+          {% if post.img %}           
+          <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="">
+          {% endif %}           
+          <h5>{{ post.title }}</h5>
+          <p>{{ post.excerpt }}</p>
+          <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+        </div>
+        {% endfor %}     
+      </div>              
+    </div>
+  </section>
+      
+  <div class="mb-60"></div>
+<!-- Content area end -->
+</div>
