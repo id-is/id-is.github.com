@@ -163,9 +163,6 @@ ContentTeam:
   - Name: "Current3"
     Title: "Title3" 
     Image: "https://id-is.github.io/assets/images/team/user.png"
-  - Name: "Current4"
-    Title: "Title4" 
-    Image: "https://id-is.github.io/assets/images/team/user.png"
   FormerMembers:
   - Name: "Former1"
     Image: "https://id-is.github.io/assets/images/team/user.png"
@@ -174,8 +171,6 @@ ContentTeam:
   - Name: "Former3"
     Image: "https://id-is.github.io/assets/images/team/user.png"
   - Name: "Former4"
-    Image: "https://id-is.github.io/assets/images/team/user.png"
-  - Name: "Former5"
     Image: "https://id-is.github.io/assets/images/team/user.png"
 
 ContentProjects:
