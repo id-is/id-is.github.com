@@ -169,6 +169,8 @@ ContentTeam:
   CurrentInternshipStudents: 
   - Name: "Stelios Karozis"
     Image: "https://id-is.github.io/assets/images/team/user.png"
+  - Name: "Kostas Andrikos"
+    Image: "https://id-is.github.io/assets/images/team/user.png"
   FormerMembers: 
   - Name: "Sissy Themeli"
     Image: "https://id-is.github.io/assets/images/team/user.png"
