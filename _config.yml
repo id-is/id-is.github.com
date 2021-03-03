@@ -45,7 +45,7 @@ title : Intelligent Data-Intensive Systems
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://id-is.github.io
+# production_url : https://id-is.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
