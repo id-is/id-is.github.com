@@ -247,3 +247,30 @@ ContentPublications:
     - Title: "Iraklis Klampanos, Charalambos Pappas, Spyros Andronopoulos, Athanasios Davvetas, Andreas Ikonomopoulos, Vangelis Karkaletsis, Identifying patterns in the weather of Europe for source term estimation, In 19th EGU General Assembly 2017, Vienna, Austria, April 23-28, (Pages: 11273), 2017."
   2016:
     - Title: "Iraklis A. Klampanos, Diamando Vlachogiannis, Spyros Andronopoulos, Antonio Cofino, Angelos Charalambidis, Rob Lokers, Stasinos Konstantopoulos, Vangelis Karkaletsis, Towards supporting climate scientists and impact assessment analysts with the Big Data Europe platform, In EGU General Assembly Conference, Vienna, Austria, April 17-22, 2016."
+
+
+ContentCareers:
+  - Title: "Software Engineer"
+    Description: "Lorem ipsum"
+    Responsibilities: 
+      - Resp: "Responsibility 1"
+      - Resp: "Responsibility 2"
+      - Resp: "Responsibility 3"
+      - Resp: "Responsibility 4"
+    Skills: 
+      - Skill: "Skill 1"
+      - Skill: "Skill 2"
+      - Skill: "Skill 3"
+      - Skill: "Skill 4"
+  - Title: "Software Engineer"
+    Description: "Lorem ipsum"
+    Responsibilities: 
+      - Resp: "Responsibility 1"
+      - Resp: "Responsibility 2"
+      - Resp: "Responsibility 3"
+      - Resp: "Responsibility 4"
+    Skills: 
+      - Skill: "Skill 1"
+      - Skill: "Skill 2"
+      - Skill: "Skill 3"
+      - Skill: "Skill 4"
