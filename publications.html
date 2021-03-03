@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Team
+title: Publications | Intelligent Data-Intensive Systems
 tagline: 
 tags : 
 img : 
@@ -17,12 +17,14 @@ canonical: https://heliumjk.github.io
         <div class="page-header-title">
             <h1 class="heading-title text-center">Publications</h1>
         </div>
-        <h2 class="heading-title text-center">2020</h2>
-        <ul class="list-featured space-bottom-20">
-        {% for pub in site.ContentPublications.Y2020 %}
-                <li><h4>{{ pub }}</h4></li>
+        {% for year in site.ContentPublications %}
+            <h2 class="heading-title text-center">{{ year[0] }}</h2>
+            <ul class="list-featured space-bottom-20">
+                {% for pub in year[1] %}
+                    <li> {{ pub.Title }} </li>
+                {% endfor %}
+            </ul>
         {% endfor %}
-        </ul>
         <div class="mb-60"></div>
     </div>
 </div>
