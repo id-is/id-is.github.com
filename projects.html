@@ -14,23 +14,18 @@ canonical: https://heliumjk.github.io
 <!-- Content Area Start -->
 <div id="content">
     <div class="container">
-        <div class="page-header-title">
-            <h2 class="heading-title text-center">Projects</h2>
-        </div>
-        <div class="row">
-          {% for c in site.ContentProjects.CurrentProjects %}
-          <!-- Start card -->
-          <div class="col-sm-6 col-md-3">
-            <div class="card">
-              <img class="card-img-top" src="{{ c.Image }}" alt="">
-              <div class="card-block">
-                <h3 class="card-title">{{ c.Name }}</h3>
-                <p class="card-text">{{ c.Description }}</p>
+        <!-- Content Area Start -->
+        <div id="content">
+          <div class="container">
+              <div class="page-header-title">
+                  <h1 class="heading-title text-center">Projects</h1>
               </div>
-            </div>
+              {% for c in site.ContentProjects.CurrentProjects %}
+              <h2 class="heading-title text-center"><img style="width:30%;" src="{{ c.Image }}" alt=""></h2>
+              <ol><li>{{ c.Description }}</li></ol>
+              {% endfor %}
+              <div class="mb-60"></div>
           </div>
-          <!-- End card -->
-          {% endfor %}
         </div>
         <div class="mb-60"></div>
     </div>
