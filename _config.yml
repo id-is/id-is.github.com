@@ -154,17 +154,17 @@ ContentIndex:
 
 ContentTeam:
   CurrentMembers:
-  - Name: "Iraklis Angelos Klampanos"
-    Title: "Postdoctoral Researcher"
+  - Name: "Iraklis Klampanos"
+    Title: "Head, Collaborating Researcher"
     Image: "https://id-is.github.io/assets/images/team/user.png"
   - Name: "Vangelis Karkaletsis"
-    Title: "Tenured Researcher" 
+    #   Title: "Tenured Researcher" 
     Image: "https://id-is.github.io/assets/images/team/user.png"
   - Name: "Andreas Ikonomopoulos"
-    Title: "Tenured Researcher" 
+    # Title: "Tenured Researcher" 
     Image: "https://id-is.github.io/assets/images/team/user.png"
   - Name: "Athanasios Davvetas"
-    Title: "PhD Candidate" 
+    # Title: "PhD Candidate" 
     Image: "https://id-is.github.io/assets/images/team/user.png"
   CurrentInternshipStudents: 
   - Name: "Stelios Karozis"
