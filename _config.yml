@@ -154,8 +154,8 @@ ContentIndex:
 
 ContentTeam:
   CurrentMembers:
-  - Name: "Iraklis Klampanos"
-    Title: "Head, Collaborating Researcher"
+  - Name: "<a href="www.demokritos.gr>Iraklis Klampanos</a>"
+    Title: "Head"
     Image: "https://id-is.github.io/assets/images/team/user.png"
   - Name: "Vangelis Karkaletsis"
     #   Title: "Tenured Researcher" 
