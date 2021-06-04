@@ -59,6 +59,7 @@ canonical:
     <!-- Current Team  End -->
     <div class="mb-60"></div>
     <!-- Current Students - Internship -->
+
     <div class="team-members mtb-50">
       <div class="sub-title">
         <h1>Current Internships - Students</h1>
@@ -148,17 +149,43 @@ canonical:
     <!-- Current Students - Internship End -->
     <div class="mb-60"></div>
     <!-- Former Members -->
+
     <div class="team-members mtb-50">
       <div class="sub-title">
         <h1>Former Members</h1>
       </div>
       <div class="row">
+        {% for c in site.ContentTeam.FormerMembers %}
         <div class="col-sm-6 col-md-3">
           <!-- Team Item Starts -->
-          <div id="sliders">
-            <div class="full-width">
+          <div class="team-item">
+            <div class="info">
+              <h2>
+                {{ c.Name }}
+              </h2>
+              <p>
+                {{ c.Title }}
+              </p>
+            </div>
+          </div>
+          <!-- Team Item Ends -->
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+
+    <!-- <div class="team-members mtb-50">
+      <div class="sub-title">
+        <h1>Former Members</h1>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 col-md-3"> -->
+          <!-- Team Item Starts -->
+          <!-- <div id="sliders">
+            <div class="full-width"> -->
               <!-- light slider -->
-              <div id="light-slider2" class="carousel slide">
+              <!-- <div id="light-slider2" class="carousel slide">
                 <div id="carousel-area2">
                   <div id="carousel-slider2" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
@@ -205,25 +232,51 @@ canonical:
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- Team Item Ends -->
-        </div>
+        <!-- </div>
       </div>
-    </div>
+    </div> -->
     <!-- Former Members End -->
     <div class="mb-60"></div>
     <!-- Former Students - Internship -->
+
     <div class="team-members mtb-50">
       <div class="sub-title">
         <h1>Former Internships - Students</h1>
       </div>
       <div class="row">
+        {% for c in site.ContentTeam.FormerInternshipStudents %}
         <div class="col-sm-6 col-md-3">
           <!-- Team Item Starts -->
-          <div id="sliders">
-            <div class="full-width">
+          <div class="team-item">
+            <div class="info">
+              <h2>
+                {{ c.Name }}
+              </h2>
+              <p>
+                {{ c.Title }}
+              </p>
+            </div>
+          </div>
+          <!-- Team Item Ends -->
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+
+    <!-- <div class="team-members mtb-50">
+      <div class="sub-title">
+        <h1>Former Internships - Students</h1>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 col-md-3"> -->
+          <!-- Team Item Starts -->
+          <!-- <div id="sliders">
+            <div class="full-width"> -->
               <!-- light slider -->
-              <div id="light-slider3" class="carousel slide">
+              <!-- <div id="light-slider3" class="carousel slide">
                 <div id="carousel-area3">
                   <div id="carousel-slider3" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
@@ -270,11 +323,11 @@ canonical:
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- Team Item Ends -->
-        </div>
-      </div>
-    </div>
+        <!-- </div> -->
+      <!-- </div> -->
+    <!-- </div> -->
     <!-- Former Students - Internship End -->
     <div class="mb-60"></div>
   </div>
