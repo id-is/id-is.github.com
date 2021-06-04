@@ -64,12 +64,36 @@ canonical:
         <h1>Current Internships - Students</h1>
       </div>
       <div class="row">
+        {% for c in site.ContentTeam.CurrentInternshipStudents %}
         <div class="col-sm-6 col-md-3">
           <!-- Team Item Starts -->
-          <div id="sliders">
-            <div class="full-width">
+          <div class="team-item">
+            <div class="info">
+              <h2>
+                {{ c.Name }}
+              </h2>
+              <p>
+                {{ c.Title }}
+              </p>
+            </div>
+          </div>
+          <!-- Team Item Ends -->
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- <div class="team-members mtb-50"> -->
+      <!-- <div class="sub-title">
+        <h1>Current Internships - Students</h1>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 col-md-3"> -->
+          <!-- Team Item Starts -->
+          <!-- <div id="sliders">
+            <div class="full-width"> -->
               <!-- light slider -->
-              <div id="light-slider" class="carousel slide">
+              <!-- <div id="light-slider" class="carousel slide">
                 <div id="carousel-area">
                   <div id="carousel-slider" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
@@ -116,11 +140,11 @@ canonical:
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- Team Item Ends -->
-        </div>
-      </div>
-    </div>
+        <!-- </div> -->
+      <!-- </div> -->
+    <!-- </div> -->
     <!-- Current Students - Internship End -->
     <div class="mb-60"></div>
     <!-- Former Members -->
