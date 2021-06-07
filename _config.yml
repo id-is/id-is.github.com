@@ -155,7 +155,7 @@ ContentIndex:
 ContentTeam:
   CurrentMembers:
   - Name: "Iraklis Klampanos"
-    Title: "Head"
+    #Title: "Head"
     Image: "https://id-is.github.io/assets/images/team/user.png"
   - Name: "Vangelis Karkaletsis"
     #   Title: "Tenured Researcher" 
