@@ -1,0 +1,83 @@
+---
+layout: index
+title: Work Oppotunities | Intelligent Data-Intensive Systems
+tagline:
+tags :
+img :
+img-mobile :
+css:
+js:
+keywords:
+canonical: 
+---
+{% include JB/setup %}
+<!-- Content Area Start -->
+<div id="content">
+    <div class="container">
+        <div class="page-header-title">
+            <h1 class="heading-title text-center">Work Oppotunities</h1>
+        </div>
+        {% assign len=site.ContentCareers.size|minus:1%}
+        {% for i in (0..len) %}
+            {% assign mod=i|modulo:2 %}
+            {% if mod == 0 %}
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-9">
+                            <h2>{{ site.ContentCareers[i].Title }}</h2>
+                            <blockquote>
+                                <p>{{ site.ContentCareers[i].Description }}</p>
+                                <p>Responsibilities:</p>
+                                {% for resp in site.ContentCareers[i].Responsibilities %}
+                                    <ul class="list-style arrow-list arrow-list-four pl-0">
+                                        <li>
+                                        <i class="fa fa-chevron-right" aria-hidden="true"></i>{{ resp.Resp }}
+                                        </li>
+                                    </ul>
+                                {% endfor %}
+                                <p>Skills:</p>
+                                {% for skill in site.ContentCareers[i].Skills %}
+                                    <ul class="list-style arrow-list arrow-list-four pl-0">
+                                        <li>
+                                        <i class="fa fa-chevron-right" aria-hidden="true"></i>{{ skill.Skill }}
+                                        </li>
+                                    </ul>
+                                {% endfor %}
+                            </blockquote>
+                        </div>
+                    </div>
+            {% elsif mod == 1 %}
+                <div class="row">
+                    <div class="col-sm-3">
+                    <blockquote>
+                    </blockquote>
+                    </div>
+                    <div class="col-sm-9">
+                    <blockquote class="blockquote-reverse">
+                            <h2>{{ site.ContentCareers[i].Title }}</h2>
+                            <p>{{ site.ContentCareers[i].Description }}</p>
+                            <p>Responsibilities:</p>
+                            {% for resp in site.ContentCareers[i].Responsibilities %}
+                                <ul class="list-style arrow-list arrow-list-four pl-0">
+                                    <li>
+                                    <i class="fa fa-chevron-right" aria-hidden="true"></i>{{ resp.Resp }}
+                                    </li>
+                                </ul>
+                            {% endfor %}
+                            <p>Skills:</p>
+                            {% for skill in site.ContentCareers[i].Skills %}
+                                <ul class="list-style arrow-list arrow-list-four pl-0">
+                                    <li>
+                                    <i class="fa fa-chevron-right" aria-hidden="true"></i>{{ skill.Skill }}
+                                    </li>
+                                </ul>
+                            {% endfor %}
+                    </blockquote>
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+        <div class="mb-60"></div>
+        </div>
+    </div>
+</div>

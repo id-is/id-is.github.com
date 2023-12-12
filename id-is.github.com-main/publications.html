@@ -1,0 +1,30 @@
+---
+layout: index
+title: Publications | Intelligent Data-Intensive Systems
+tagline: 
+tags : 
+img : 
+img-mobile : 
+css: 
+js:
+keywords: 
+canonical: 
+---
+{% include JB/setup %}
+<!-- Content Area Start -->
+<div id="content">
+    <div class="container">
+        <div class="page-header-title">
+            <h1 class="heading-title text-center">Publications</h1>
+        </div>
+        {% for year in site.ContentPublications %}
+            <h2 class="heading-title text-center">{{ year[0] }}</h2>
+            <ul class="list-featured space-bottom-20">
+                {% for pub in year[1] %}
+                    <li> {{ pub.Title }} </li>
+                {% endfor %}
+            </ul>
+        {% endfor %}
+        <div class="mb-60"></div>
+    </div>
+</div>
