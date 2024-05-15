@@ -1,0 +1,47 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "INTELLIGENT DATA - INTENSIVE SYSTEMS"
+theme = "mainroad"
+
+[params]
+  text_color = "black"
+  site_logo = "/logo.png"
+  description = "The last theme you'll ever need. Maybe."
+  background_color_class = "bg-lightest-blue"
+  recent_posts_number = 3
+  # Add custom styling for the title
+  title_style = "font-family: 'Arial', sans-serif; font-size: 2.5em; font-weight: bold; color: #333; text-transform: uppercase; letter-spacing: 2px;"
+  
+
+
+[menu]
+[[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/home/'
+[[menu.main]]
+    identifier = 'team'
+    name = 'Team'
+    url = '/team/'
+[[menu.main]]
+    identifier = 'Webinars'
+    name = 'Webinars'
+    url = '/webinars/'
+[[menu.main]]
+    identifier = 'Projects'
+    name = 'Projects'
+    url = '/projects/'
+[[menu.main]]
+    identifier = 'Publications'
+    name = 'Publications'
+    url = '/publications/'
+[[menu.main]]
+    identifier = 'Software and Resources'
+    name = 'Software and Resources'
+    url = '/software_resources/'
+
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/GoHugoIO"
+
