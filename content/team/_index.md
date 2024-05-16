@@ -16,21 +16,24 @@ cascade:
 - [Antonis Trompoukis](https://gohugo.io/)  
     - antru{at}iit.demokritos.gr
 
-- Christos Perentis   
+- [Christos Perentis](https://gohugo.io/)
     - cperentis{at}iit.demokritos.gr
 
-- Antonis Ganios    
+- [Antonis Ganios](https://gohugo.io/) (Research Associate)
     - ant.ganios{at}iit.demokritos.gr
    
-- Vasileios Vatellis    
+- [Vasileios Vatellis](https://gohugo.io/) (Research Associate)
     - vasileios.vatellis{at}iit.demokritos.gr
     
-- Theodoros Aivalis    (Research Associate)
+- [Theodoros Aivalis](https://gohugo.io/) (Research Associate)
     - teoaivalis{at}iit.demokritos.gr
+
+- [Ypatia Dami](https://gohugo.io/) (Research Associate)
+    - ypatia{at}iit.demokritos.gr
 
 ## Current Students - Internships
 
-- Vadi Magelaki   vmagelaki21{at}gmail.com
+- 
 
 ## Former Members
 
