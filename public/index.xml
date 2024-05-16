@@ -1,42 +1,101 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>id - is</title>
+    <title>Intelligent Data Intensive Systems on INTELLIGENT DATA - INTENSIVE SYSTEMS</title>
     <link>http://example.org/</link>
-    <description>Recent content on id - is</description>
+    <description>Recent content in Intelligent Data Intensive Systems on INTELLIGENT DATA - INTENSIVE SYSTEMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Dec 2023 14:55:16 +0200</lastBuildDate>
-    
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 14 Dec 2023 22:04:38 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Article 2</title>
-      <link>http://example.org/articles/article-2/</link>
-      <pubDate>Thu, 14 Dec 2023 14:59:35 +0200</pubDate>
+      <title>Home</title>
+      <link>http://example.org/home/</link>
+      <pubDate>Thu, 14 Dec 2023 15:14:57 +0200</pubDate>
       
-      <guid>http://example.org/articles/article-2/</guid>
-      <description>Article 2</description>
+      <guid>http://example.org/home/</guid>
+      <description>Welcome to Intelligent Data - Intensive Systems
+Nowadays, production and utilisation of large data volumes is ubiquitous. Multiple scientific domains, such as environmental sciences, remote sensing, etc., produce large-scale datasets useful in other scientific, social and technological domains. Expecting domain experts or policy makers to create efficient solutions for data-intensive research is not practical. At the same time, AI is emerging as a major enabler when it comes to utilisation and democratisation of data.</description>
     </item>
     
     <item>
-      <title>Article 1</title>
-      <link>http://example.org/articles/article-1/</link>
-      <pubDate>Thu, 14 Dec 2023 14:59:14 +0200</pubDate>
+      <title>Neuro Symbolic AI</title>
+      <link>http://example.org/webinars/webinar-3/</link>
+      <pubDate>Fri, 13 Oct 2023 15:26:47 +0200</pubDate>
       
-      <guid>http://example.org/articles/article-1/</guid>
-      <description>Article 1</description>
+      <guid>http://example.org/webinars/webinar-3/</guid>
+      <description>Abstract : In recent years, neural systems have demonstrated highly effective learning ability and superior perception intelligence. However, they have been found to lack effective reasoning and cognitive ability. On the other hand, symbolic systems exhibit exceptional cognitive intelligence but suffer from poor learning capabilities when compared to neural systems. Recognizing the advantages and disadvantages of both methodologies, an ideal solution emerges: combining neural systems and symbolic systems to create neural-symbolic learning systems that possess powerful perception and cognition.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://example.org/about/</link>
-      <pubDate>Thu, 14 Dec 2023 14:55:16 +0200</pubDate>
+      <title>Physics</title>
+      <link>http://example.org/webinars/webinar-2/</link>
+      <pubDate>Fri, 29 Sep 2023 15:26:44 +0200</pubDate>
       
-      <guid>http://example.org/about/</guid>
-      <description>About us
- First item Second item Third item  </description>
+      <guid>http://example.org/webinars/webinar-2/</guid>
+      <description>Abstract : A brief introduction to the Standard Model (SM) and the utilization of two Higgs doublet models and their extension to explain SM&amp;rsquo;s inconsistencies in neutrinos masses and flavor observables using Branco Grimus Lavoura (BGL) quark structure. Providing also new scalar particles and interesting topologies for collider physics
+link : https://drive.google.com/drive/folders/1Aw0ICgozWzDEhvilWo6-Qp4-GU7gM5Mb</description>
+    </item>
+    
+    <item>
+      <title>All About Transformers</title>
+      <link>http://example.org/webinars/webinar-1/</link>
+      <pubDate>Fri, 22 Sep 2023 15:26:41 +0200</pubDate>
+      
+      <guid>http://example.org/webinars/webinar-1/</guid>
+      <description>Abstract : The engagement with the field of artificial intelligence, which has seen significant development in recent times, dates back to the mid 20th century. Transformers first mentioned by the paper titled Attention is All you Need whichintroduced a model utilizing the attention mechanism to establish connections between data in order to make predictions. Since then, numerous and diverse Transformershave been created, building upon and extending the original model. The purpose of this presentation is to illustrate the applications and results of Trnasformers in various fields, displaying at the same time challenges and limtations of those models.</description>
+    </item>
+    
+    <item>
+      <title>AI4Copernicus</title>
+      <link>http://example.org/projects/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/project-1/</guid>
+      <description>Reinforcing the AI4EU Platform by Advancing Earth Observation Intelligence, Innovation and Adoption
+January 1, 2021 - December 31, 2023
+ AI4Copernicus aims to make the AI4EU AI-on-demand platform the platform of choice for users of Copernicus data along the value chain (scientists, SMEs, non-tech sector). AI4Copernicus will achieve this by exposing AI4EU resources on DIAS (data and information access services) platforms, making it easy to procure computing power and large EO data, as well as to access training material and expertise.</description>
+    </item>
+    
+    <item>
+      <title>AI4EU</title>
+      <link>http://example.org/projects/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/project-2/</guid>
+      <description>A European AI On Demand Platform and Ecosystem
+January 1, 2019 - December 31, 2021
+ AI4EU will efficiently build a comprehensive European AI-on-demand platform to lower barriers to innovation, to boost technology transfer and catalyse the growth of start-ups and SMEs in all sectors through open calls and other actions. The platform will act as a broker, developer and one-stop shop providing and showcasing services, expertise, algorithms, software frameworks, development tools, components, modules, data, computing resources, prototyping functions and access to funding.</description>
+    </item>
+    
+    <item>
+      <title>DARE</title>
+      <link>http://example.org/projects/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/project-4/</guid>
+      <description>Delivering Agile Research Excellence on European e-Infrastructures
+January 1, 2018 - December 31, 2020
+ DARE aims to provide scientific communities with a unifying hyper-platform and development context to allow for user-friendly and reproducible carrying out of huge data-driven experiments, and rapid prototyping. DARE specifically addresses the requirements of innovating teams of research developers and scientists, who work on the intersection of software engineering and scientific domains, and on data, complexity and computing extremes.</description>
+    </item>
+    
+    <item>
+      <title>Fair for Fusion</title>
+      <link>http://example.org/projects/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/project-3/</guid>
+      <description>Open access for fusion data in Europe
+September 1, 2019 - August 31, 2021
+ The European fusion community has become increasingly collaborative over the last few decades with more experimental devices becoming available for broader groups of researchers. The diversity of devices is a great strength of the programme, but as each facility largely has developed their own data technologies, philosophies and access methodologies it has in some cases also presented challenges in sharing data even between collaborating scientists.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://example.org/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/</guid>
+      <description>2020  Christian Pagé, Wim Som de Cerff, Maarten Plieger, Alessandro Spinuso, Iraklis Klampanos, Malcolm Atkinson, Vangelis Karkaletsis, Integrating e-infrastructures for remote climate data processing, In EGU General Assembly 2020, May 4–8, Virtual, 2020. Iraklis Klampanos, Chrysoula Themeli, Alessandro Spinuso, Rosa Filgueira, Malcolm Atkinson, André Gemünd, Vangelis Karkaletsis, DARE Platform: a Developer-Friendly and Self-Optimising Workflows-as-a-Service Framework for e-Science on the Cloud, In Journal of Open Source Software, The Open Journal, volume 5, (Pages: 2664), 2020.</description>
     </item>
     
   </channel>

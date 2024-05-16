@@ -1,0 +1,15 @@
+.container {
+    margin: 0 auto;
+    // Adjusting the max-width to increase page width. 
+    // The original file path - `/<website-root>/themes/<theme-name>/assets/scss/..`
+    // max-width: 90rem;
+    max-width: 10rem;
+    width: 10%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  /* Reduce top padding for the body */
+body {
+  padding-top: 1px; /* Adjust the value as needed */
+}
