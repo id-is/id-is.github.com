@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://id-is.github.io/projects/</loc>
     <lastmod>2023-12-14T22:16:26+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/software_resources/</loc>
+    <loc>https://id-is.github.io/software_resources/</loc>
     <lastmod>2023-12-14T22:16:26+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/webinars/</loc>
+    <loc>https://id-is.github.io/webinars/</loc>
     <lastmod>2023-12-14T22:16:26+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://id-is.github.io/</loc>
     <lastmod>2023-12-14T22:04:38+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/home/</loc>
+    <loc>https://id-is.github.io/home/</loc>
     <lastmod>2023-12-14T15:14:57+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/webinars/webinar-3/</loc>
+    <loc>https://id-is.github.io/webinars/webinar-3/</loc>
     <lastmod>2023-10-13T15:26:47+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/webinars/webinar-2/</loc>
+    <loc>https://id-is.github.io/webinars/webinar-2/</loc>
     <lastmod>2023-09-29T15:26:44+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/webinars/webinar-1/</loc>
+    <loc>https://id-is.github.io/webinars/webinar-1/</loc>
     <lastmod>2023-09-22T15:26:41+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projects/project-1/</loc>
+    <loc>https://id-is.github.io/projects/project-1/</loc>
   </url><url>
-    <loc>http://example.org/projects/project-2/</loc>
+    <loc>https://id-is.github.io/projects/project-2/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://id-is.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/projects/project-4/</loc>
+    <loc>https://id-is.github.io/projects/project-4/</loc>
   </url><url>
-    <loc>http://example.org/projects/project-3/</loc>
+    <loc>https://id-is.github.io/projects/project-3/</loc>
   </url><url>
-    <loc>http://example.org/publications/</loc>
+    <loc>https://id-is.github.io/publications/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://id-is.github.io/tags/</loc>
   </url><url>
-    <loc>http://example.org/team/</loc>
+    <loc>https://id-is.github.io/team/</loc>
   </url>
 </urlset>

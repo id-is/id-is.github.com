@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webinars on INTELLIGENT DATA - INTENSIVE SYSTEMS</title>
-    <link>http://example.org/webinars/</link>
+    <link>https://id-is.github.io/webinars/</link>
     <description>Recent content in Webinars on INTELLIGENT DATA - INTENSIVE SYSTEMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Dec 2023 22:16:26 +0200</lastBuildDate><atom:link href="http://example.org/webinars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Dec 2023 22:16:26 +0200</lastBuildDate><atom:link href="https://id-is.github.io/webinars/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neuro Symbolic AI</title>
-      <link>http://example.org/webinars/webinar-3/</link>
+      <link>https://id-is.github.io/webinars/webinar-3/</link>
       <pubDate>Fri, 13 Oct 2023 15:26:47 +0200</pubDate>
       
-      <guid>http://example.org/webinars/webinar-3/</guid>
+      <guid>https://id-is.github.io/webinars/webinar-3/</guid>
       <description>Abstract : In recent years, neural systems have demonstrated highly effective learning ability and superior perception intelligence. However, they have been found to lack effective reasoning and cognitive ability. On the other hand, symbolic systems exhibit exceptional cognitive intelligence but suffer from poor learning capabilities when compared to neural systems. Recognizing the advantages and disadvantages of both methodologies, an ideal solution emerges: combining neural systems and symbolic systems to create neural-symbolic learning systems that possess powerful perception and cognition.</description>
     </item>
     
     <item>
       <title>Physics</title>
-      <link>http://example.org/webinars/webinar-2/</link>
+      <link>https://id-is.github.io/webinars/webinar-2/</link>
       <pubDate>Fri, 29 Sep 2023 15:26:44 +0200</pubDate>
       
-      <guid>http://example.org/webinars/webinar-2/</guid>
+      <guid>https://id-is.github.io/webinars/webinar-2/</guid>
       <description>Abstract : A brief introduction to the Standard Model (SM) and the utilization of two Higgs doublet models and their extension to explain SM&amp;rsquo;s inconsistencies in neutrinos masses and flavor observables using Branco Grimus Lavoura (BGL) quark structure. Providing also new scalar particles and interesting topologies for collider physics
 link : https://drive.google.com/drive/folders/1Aw0ICgozWzDEhvilWo6-Qp4-GU7gM5Mb</description>
     </item>
     
     <item>
       <title>All About Transformers</title>
-      <link>http://example.org/webinars/webinar-1/</link>
+      <link>https://id-is.github.io/webinars/webinar-1/</link>
       <pubDate>Fri, 22 Sep 2023 15:26:41 +0200</pubDate>
       
-      <guid>http://example.org/webinars/webinar-1/</guid>
+      <guid>https://id-is.github.io/webinars/webinar-1/</guid>
       <description>Abstract : The engagement with the field of artificial intelligence, which has seen significant development in recent times, dates back to the mid 20th century. Transformers first mentioned by the paper titled Attention is All you Need whichintroduced a model utilizing the attention mechanism to establish connections between data in order to make predictions. Since then, numerous and diverse Transformershave been created, building upon and extending the original model. The purpose of this presentation is to illustrate the applications and results of Trnasformers in various fields, displaying at the same time challenges and limtations of those models.</description>
     </item>
     
