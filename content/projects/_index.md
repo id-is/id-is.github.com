@@ -8,24 +8,11 @@ cascade:
   featured_image: '/backround.png'
 ---
 
-<div class="project-panel">
-    <ul style="list-style: none; padding: 0;">
-        <li style="display: inline;">
-            <a href="#deployai" style="margin-right: 10px;">DeployAI</a>
-            <a href="#ai4europe" style="margin-right: 10px;">AI4Europe</a>
-            <a href="#ai4copernicus" style="margin-right: 10px;">AI4Copernicus</a>
-            <a href="#fairforfusion" style="margin-right: 10px;">Fair for Fusion</a>
-            <a href="#is-enes3" style="margin-right: 10px;">IS-ENES3</a>
-            <a href="#ai4eu" style="margin-right: 10px;">AI4EU</a>
-            <a href="#dare" style="margin-right: 10px;">DARE</a>
-            <a href="#bigdataeurope" style="margin-right: 10px;">BigDataEurope</a>
-        </li>
-    </ul>
-</div>
+[DeployAI  ](#deployai) - [AI4Europe  ](#ai4europe) - [AI4Copernicus  ](#ai4copernicus) - [Fair for Fusion  ](#fairforfusion) - [IS-ENES3  ](#isenes3) -  [AI4EU  ](#ai4eu) - [DARE  ](#dare) - [BigDataEurope  ](#bigdataeurope)
 
 
 
-## DeployAI (January 1, 2024 - December 31, 2027)
+## DeployAI (January 1, 2024 - December 31, 2027) {#deployai}
 
 [Website](https://www.deploy.ai/)
 
@@ -36,7 +23,7 @@ cascade:
 
 The primary goal of DeployAI is to build, deploy, and launch a fully operational AI-On-Demand platform (AIoDP) promoting trustworthy, ethical, and transparent European AI solutions for use in the industry, mainly for SMEs, and in the public sector. The development of the AIoDP will be based on the requirements of the Pre-PAI and the ongoing AI4Europe projects. DeployAI will provide a comprehensive and Trustworthy AI (TAI) resource catalogue and marketplace, which offers responsible AI resources, and tools, ensuring easy access for end-users (SMEs, public sector) and asset developers, and meeting industrial standard requirements. AIoDP will allow the rapid prototyping of TAI applications and their deployment to a variety of cloud/edge/HPC infrastructures. To lower the entry barrier of using AI and to offer advanced AI capabilities, responsible European LLMs will be integrated in the AIoDP to enable services for downstream tasks, fine-tuning and other complex GPAI workflows. The AIoDP will be embedded in the European AI ecosystem, especially to EDIHs, TEFs, Dataspaces, SIMPL, and HPC/Cloud/Edge infrastructure. Interfaces to European initiatives and industrial AIcapable cloud platforms will be implemented, including an open API, to enable interoperability. A significant number of TAI resources will be made available on the AIoDP which will be qualified and labelled by an established process. Further, DeployAI will establish a viable AIoDP engagement strategy for AI resource providers and AI users and stimulate the European AI innovation landscape with its FSTP programme. Active stakeholder engagement will be ensured by providing matchmaking services and an interactive landscape tool. Finally, the project will provide a sustainable business model and a viable long-term strategy for the AIoDP. Governance structures responsible for the AIoDP ongoing operations will be put in place, while a permanent legal entity to own and operate the future AIoDP will be established.
 
-## AI4Europe (July 1, 2022 - December 31, 2025)
+## AI4Europe (July 1, 2022 - December 31, 2025) {#ai4europe}
 
 [Cordis](https://cordis.europa.eu/project/id/101070000)
 
@@ -48,7 +35,7 @@ The primary goal of DeployAI is to build, deploy, and launch a fully operational
 
 The rapid advancement of AI technologies has led the EU to decide on hosting a research environment focused on scientific and ethical excellence, which grows with the cooperation of members from within the EU and the assistance of academia and industry. The EU-funded AI4EUROPE project, in collaboration with AI4EU and other related projects, aims to develop this space by introducing an unbiased, open and cooperative platform from and for the European research community for excellent studies of AI. This platform will provide services ranging from data access, services and tools to cooperation with other researchers. The project will also enable a business model for guaranteeing its continued operation.
 
-## AI4Copernicus (January 1, 2021 - December 31, 2023)
+## AI4Copernicus (January 1, 2021 - December 31, 2023) {#ai4copernicus}
 
 [Cordis](https://cordis.europa.eu/project/id/101016798)
 
@@ -60,7 +47,7 @@ The rapid advancement of AI technologies has led the EU to decide on hosting a r
 
 AI4Copernicus aims to make the AI4EU AI-on-demand platform the platform of choice for users of Copernicus data along the value chain (scientists, SMEs, non-tech sector). AI4Copernicus will achieve this by exposing AI4EU resources on DIAS (data and information access services) platforms, making it easy to procure computing power and large EO data, as well as to access training material and expertise. AI4Copernicus proposes to reinforce and optimise the AI4EU platform service offering with AI4Copernicus datasets, tools and services relevant to Copernicus data to facilitate the use and uptake of the platform resources in domains of high economic and societal impact, such as in Agriculture, Energy and Security. A series of 4 open calls have been planned, leading to 8 small-scale experiments (smaller, single-beneficiary experimental projects targeting technology-advanced users) and 9 use-cases (larger-budget projects, involving at least one non-technology user). The open calls will necessitate the utilisation of DIAS platforms, Copernicus data, the AI4EU platform and the services and resources that will be provided by the AI4Copernicus project. Through organising, facilitating and mentoring these Open Calls, AI4Copernicus will reach out to new user domains and boost the use of the AI4EU platform. More specifically, AI4Copernicus aims to: (1) Expand and deepen the integration of AI4EU with DIAS platforms to enrich the AI4EU service offering and enable far-reaching innovation; (2) Kickstart the innovation cycle by incentivising diverse AI4EU and Copernicus communities to solve real problems of business and societal value; and (3) Drive the evolution, uptake, and impact of all involved platforms: AI4EU and the DIAS platforms, especially WEkEO, CREODIAS and MUNDI.
 
-## Fair for Fusion (September 1, 2019 - August 31, 2021)
+## Fair for Fusion (September 1, 2019 - August 31, 2021) {#fairforfusion}
 
 [Cordis](https://cordis.europa.eu/project/id/847612)
 
@@ -74,7 +61,7 @@ The European fusion community has become increasingly collaborative over the las
 
 The overall objective of this work is to make European funde data more widely available to the fusion community, other science communities, funding bodies, and the public at large in order to maximise the impact of, the data and demonstrate the importance of the work done at relevant sites. We aim in this proposal to achieve all of the goals specified in this call by not only providing a reference architecture for such an open data platform, but to both demonstrate and elicit feedback from existing users within the fusion domain, to ensure they are both exposed to the benefits of such an open science approach and that we are able to obtain feedback to provide input into the design. We will also demonstrate these tools to other communities involved in open data initiatives (such as EOSC partners) to gain insight based on their existing experience. Tools will be created to support some underpinnings of FAIR and Open data based on policies obtained from existing which can be used both as stand-alone services and as building blocks in a future open data platform. Where possible, we will make use of existing services and tools, adapting them where necessary to meet the needs of the fusion community.
 
-## IS-ENES3 (January 1, 2019 - March 31, 2023)
+## IS-ENES3 (January 1, 2019 - March 31, 2023) {#isenes3}
 
 [Cordis](https://cordis.europa.eu/project/id/824084)
 
@@ -86,7 +73,7 @@ The overall objective of this work is to make European funde data more widely av
 
 Bringing together 22 European climate research institutions, the EU-funded IS-ENES3 project will boost understanding of past and present-day climate. It will project future variability and changes through the development and sharing of model components, modelling tools and data infrastructure. By fostering collaboration amongst modelling groups, the project will speed up the development and use of models of the Earth’s complex climate system. Networking will grow the user base, increase the cohesion of the climate modelling community, promote innovation and prepare for a sustainable infrastructure in support of climate modelling. The project will also deliver common strategies for research infrastructure. Further, it will deliver the European part of the Earth System Grid Federation.
 
-## AI4EU (January 1, 2019 - December 31, 2021)
+## AI4EU (January 1, 2019 - December 31, 2021) {#ai4eu}
 
 [Cordis](https://cordis.europa.eu/project/id/825619)
 
@@ -101,7 +88,7 @@ AI4EU will efficiently build a comprehensive European AI-on-demand platform to l
 The pilots and research will showcase how AI4EU can stimulate scientific discovery and technological innovation. The AI4EU Ethical Observatory will be established to ensure the respect of human centered AI values and European regulations. Sustainability will be ensured via the creation of the AI4EU Foundation. The results will feed a new and comprehensive Strategic Research Innovation Agenda for Europe.
 
 
-## DARE (January 1, 2018 - December 31, 2020)
+## DARE (January 1, 2018 - December 31, 2020) {#dare}
 
 [Cordis](https://cordis.europa.eu/project/id/725349)
 
@@ -112,7 +99,7 @@ The pilots and research will showcase how AI4EU can stimulate scientific discove
 DARE aims to provide scientific communities with a unifying hyper-platform and development context to allow for user-friendly and reproducible carrying out of huge data-driven experiments, and rapid prototyping. DARE specifically addresses the requirements of innovating teams of research developers and scientists, who work on the intersection of software engineering and scientific domains, and on data, complexity and computing extremes. The size and complexity of scientific data, as well as the difficulty in formulating domain-specific solutions in reproducible and reusable ways, may often lead to throw-away, unsustainable end-user products, or long release cycles. This complexity increases exponentially with the size and diversity of input and produced data. Furthermore, widely used big-data technologies and analytics, while they are known to lead to increased productivity in commercial settings, they are often not taken advantage of in scientific. The requirement to deal with diverse exascale data resources dictates the need to ensure and increase productivity through the controlled disruption of the current modus operandi of European RIs. DARE aims to be the technological pivot for this transition, while providing transparent, traceable and developer-friendly bridges over existing infrastructures and services. Building on extensive experience in research e-infrastructures, semantification and the handling of metadata, and on bigdata technologies and domain applications, DARE will equip teams of innovators with meaningful abstractions and tools allowing for rapid prototyping of reproducible and efficient research solutions. DARE will improve further and integrate tried and tested programmatic dataflow specification APIs, big-data technologies and provenance/data-lineage solutions to address the requirements of European RIs, initially of EPOS, on Earth science, and IS/ENES2, on climate.
 
 
-## BigDataEurope (January 1, 2015 - December 31, 2017)
+## BigDataEurope (January 1, 2015 - December 31, 2017) {#bigdataeurope}
 
 [Cordis](https://cordis.europa.eu/project/id/644564)
 

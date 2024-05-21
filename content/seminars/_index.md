@@ -8,7 +8,7 @@ cascade:
 description: It's a Weekly Session Where each Member of the group Presentate his Work
 ---
 
-[2024](#2024) [2023](#2023)
+[2024](#2024) - [2023](#2023)
 
 # 2024 {#2024}
 
