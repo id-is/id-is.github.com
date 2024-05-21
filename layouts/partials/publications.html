@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <style>
+        .year-nav {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #f1f1f1;
+        }
+        .year-nav a {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+        }
+        .year-nav a:hover {
+            text-decoration: underline;
+        }
+        .publication {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <!-- Your header content -->
+</header>
+
+<main>
+    <!-- Year Navigation Panel -->
+    <div class="year-nav">
+        <a href="#2020">2020</a>
+        <a href="#2019">2019</a>
+        <a href="#2018">2018</a>
+        <a href="#2017">2017</a>
+        <a href="#2016">2016</a>
+        <!-- Add more years as needed -->
+    </div>
+
+    <!-- Publications Content -->
+    <div class="content">
+        {{ .Content }}
+    </div>
+</main>
+
+<footer>
+    <!-- Your footer content -->
+</footer>
+
+<script>
+    document.querySelectorAll('.year-nav a').forEach(anchor => {
+        anchor.addEventListener('click', function(e) {
+            e.preventDefault();
+
+            document.querySelector(this.getAttribute('href')).scrollIntoView({
+                behavior: 'smooth'
+            });
+        });
+    });
+</script>
+
+</body>
+</html>

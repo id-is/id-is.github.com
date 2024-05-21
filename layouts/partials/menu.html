@@ -1,0 +1,18 @@
+<nav class="menu">
+    <button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+      <span class="menu__btn-title" tabindex="-1">Menu</span>
+    </button>
+    <ul class="menu__list">
+      {{ $currentPageTitle := .Page.Title }}
+      {{ range .Site.Menus.main }}
+        <li class="menu__item {{ if eq $currentPageTitle .Name }}active{{ end }}">
+          <a class="menu__link" href="{{ .URL }}">
+            <span class="menu__text">{{ .Name }}</span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+  
+
+  

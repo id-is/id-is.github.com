@@ -10,59 +10,114 @@ cascade:
 
 ## Current Members
 
-- [Iraklis Klampanos](https://gohugo.io/) (Head)   
-    - email: iaklampanos{at}iit.demokritos.gr
+<table>
+  <tr>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="/ai4europe.png" alt="Iraklis Klampanos" style="width:100px; margin-right: 10px;">
+        <div style="font-size: 12px;">
+          Email: <a href="mailto:iaklampanos@iit.demokritos.gr">iaklampanos{at}iit.demokritos.gr</a><br>
+          <a href="https://example.com">Iraklis Klampanos</a>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="/ai4europe.png" alt="Antonis Trompoukis" style="width:100px; margin-right: 10px;">
+        <div style="font-size: 12px;">
+          Email: <a href="mailto:antru@iit.demokritos.gr">antru{at}iit.demokritos.gr</a><br>
+          <a href="https://example.com">Antonis Trompoukis</a>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="/ai4europe.png" alt="Christos Perentis" style="width:100px; margin-right: 10px;">
+        <div style="font-size: 12px;">
+          Email: <a href="mailto:cperentis@iit.demokritos.gr">cperentis{at}iit.demokritos.gr</a><br>
+          <a href="https://example.com">Christos Perentis</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="/ai4europe.png" alt="Antonis Ganios" style="width:100px; margin-right: 10px;">
+        <div style="font-size: 12px;">
+          Email: <a href="mailto:ant.ganios@iit.demokritos.gr">ant.ganios{at}iit.demokritos.gr</a><br>
+          <a href="https://example.com">Antonis Ganios</a>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="/vatellis.png" alt="Vasileios Vatellis" style="width:150px; height:150px; margin-right: 10px;">
+        <div style="font-size: 12px;">
+          Email: <a href="mailto:vasileios.vatellis@iit.demokritos.gr">vasileios.vatellis{at}iit.demokritos.gr</a><br>
+          <a href="https://example.com">Vasileios Vatellis</a>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="/aivalis.png" alt="Theodoros Aivalis" style="width:120px; height:120px; margin-right: 10px;">
+        <div style="font-size: 12px;">
+          Email: <a href="mailto:teoaivalis@iit.demokritos.gr">teoaivalis{at}iit.demokritos.gr</a><br>
+          <a href="https://example.com">Theodoros Aivalis</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="display: flex; align-items: center;">
+        <img src="/ai4europe.png" alt="Ypatia Dami" style="width:100px; margin-right: 10px;">
+        <div style="font-size: 12px;">
+          Email: <a href="mailto:ypatia@iit.demokritos.gr">ypatia{at}iit.demokritos.gr</a><br>
+          <a href="https://example.com">Ypatia Dami</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-- [Antonis Trompoukis](https://gohugo.io/)  
-    - antru{at}iit.demokritos.gr
 
-- [Christos Perentis](https://gohugo.io/)
-    - cperentis{at}iit.demokritos.gr
 
-- [Antonis Ganios](https://gohugo.io/) (Research Associate)
-    - ant.ganios{at}iit.demokritos.gr
-   
-- [Vasileios Vatellis](https://gohugo.io/) (Research Associate)
-    - vasileios.vatellis{at}iit.demokritos.gr
-    
-- [Theodoros Aivalis](https://gohugo.io/) (Research Associate)
-    - teoaivalis{at}iit.demokritos.gr
 
-- [Ypatia Dami](https://gohugo.io/) (Research Associate)
-    - ypatia{at}iit.demokritos.gr
-
-## Current Students - Internships
-
-- 
 
 ## Former Members
 
-- Sissy Themeli
-    
-- Vasilis Margonis
-  
-- Iris Xenaki
-    
-- Athanasios Davvetas
+<table>
+  <tr>
+    <td>Sissy Themeli</td>
+    <td>Vasilis Margonis</td>
+    <td>Iris Xenaki</td>
+  </tr>
+  <tr>
+    <td>Athanasios Davvetas</td>
+  </tr>
+</table>
 
-## Former Students - Internships 
+## Former Students - Internships
 
-Antonia Tsili
-
-Athina Kyriakou
-
-Athina Bikaki
-
-George Tsiatsios
-
-Konstantinos Dimitros
-
-Giannis Avgeros
-
-Nikos Sykiniotis
-
-Vasilis Krikonis
-
-Stelios Karozis
-
-Kostas Andrikos
+<table>
+  <tr>
+    <td>Antonia Tsili</td>
+    <td>Athina Kyriakou</td>
+    <td>Athina Bikaki</td>
+  </tr>
+  <tr>
+    <td>George Tsiatsios</td>
+    <td>Konstantinos Dimitros</td>
+    <td>Giannis Avgeros</td>
+  </tr>
+  <tr>
+    <td>Nikos Sykiniotis</td>
+    <td>Vasilis Krikonis</td>
+    <td>Stelios Karozis</td>
+  </tr>
+  <tr>
+    <td>Kostas Andrikos</td>
+  </tr>
+</table>
