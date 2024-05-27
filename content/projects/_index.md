@@ -14,7 +14,7 @@ cascade:
 
 ## DeployAI (January 1, 2024 - December 31, 2027) {#deployai}
 
-[Website](https://www.deploy.ai/)
+[Website](https://ww.deploy.ai/)
 
 **Development and Deployment of the European AI-on-demand Platform**
 
