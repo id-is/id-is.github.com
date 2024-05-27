@@ -27,9 +27,9 @@ theme = "mainroad"
     url = '/team/'
     weight = 4
 [[menu.main]]
-    identifier = 'Seminars'
-    name = 'Seminars'
-    url = '/seminars/'
+    identifier = 'Software and Resources'
+    name = 'Software and Resources'
+    url = '/software_resources/'
     weight = 5
 [[menu.main]]
     identifier = 'Projects'
