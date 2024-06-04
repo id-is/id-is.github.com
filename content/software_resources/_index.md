@@ -12,6 +12,31 @@ cascade:
 
 # Resources {#resources}
 
+## ReProv-API
+
+**Description:** API-based solution enabling users to register and execute workflows seamlessly by integrating with the REANA execution system.
+
+**Abstract:** ReProv-API is an API-based solution enabling users to register and execute workflows seamlessly by integrating with the REANA execution system. It also offers the capability to capture and visualize data provenance of the workflow executions, based on the W3C-PROV standard.
+
+The project consists of three key components:
+
+- FastAPI: Core component enabling RESTful API interactions with the platform.
+- Keycloak: Authentication and access control system ensuring secure user authentication and user grouping
+- MySQL Database: Database system serving as the backend for efficient data storage and retrieval.
+
+All three components are deployed in a dockerized environment in order to ensure scalability, portability, and ease of management.
+This work assumes a platform and core components in line with the architecture specified as part of the HEurope project AI4Europe.
+
+Key Features
+- User authentication using keycloak
+- Workflow registration (CWL workflows are currently supported).
+- Integration with REANA system to execute previously registered workflows.
+- CRUD operations both for registered and executed workflows.
+- Data provenance for workflows executed within the REANA framework.
+- Visualization of data provenance by generating graph-based PNG representations, allowing for clear and intuitive exploration of workflow dependencies and data flow.
+
+**Link:** [GitHub Repository](https://github.com/id-is/ReProv-API)
+
 ## Severe Weather Detection
 
 **Description:** Unsupervised Severe Weather Detection Via Joint Representation Learning Over Textual and Weather Data
