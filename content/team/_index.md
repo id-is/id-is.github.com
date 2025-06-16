@@ -106,10 +106,11 @@ cascade:
   </tr>
   <tr>
     <td>Nikos Sykiniotis</td>
+    <td>Vanti Mangelaki</td>
     <td>Vasilis Krikonis</td>
-    <td>Stelios Karozis</td>
   </tr>
   <tr>
+    <td>Stelios Karozis</td>
     <td>Kostas Andrikos</td>
   </tr>
 </table>
