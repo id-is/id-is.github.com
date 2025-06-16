@@ -2,29 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on INTELLIGENT DATA-INTENSIVE SYSTEMS</title>
-    <link>https://id-is.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on INTELLIGENT DATA-INTENSIVE SYSTEMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Dec 2023 15:14:57 +0200</lastBuildDate><atom:link href="https://id-is.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Dec 2023 15:14:57 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home</title>
-      <link>https://id-is.github.io/home/</link>
+      <link>http://localhost:1313/home/</link>
       <pubDate>Thu, 14 Dec 2023 15:14:57 +0200</pubDate>
-      
-      <guid>https://id-is.github.io/home/</guid>
-      <description>Welcome to Intelligent Data-Intensive Systems (ID-IS) In today&amp;rsquo;s data-rich environment, the production and utilization of large data volumes are ubiquitous. Multiple scientific domains, such as environmental sciences and remote sensing, generate vast datasets that are invaluable across various fields. The ability to harness these datasets effectively is becoming increasingly important for driving scientific research and innovation.
-Leveraging AI Across Diverse Domains Despite the recent spotlight on AI in computer science applications like computer vision, AI solutions are underutilized in domains such as the Natural Sciences.</description>
+      <guid>http://localhost:1313/home/</guid>
+      <description>Welcome to Intelligent Data-Intensive Systems (ID-IS) In today&amp;rsquo;s data-rich environment, the production and utilization of large data volumes are ubiquitous. Multiple scientific domains, such as environmental sciences and remote sensing, generate vast datasets that are invaluable across various fields. The ability to harness these datasets effectively is becoming increasingly important for driving scientific research and innovation.&#xA;Leveraging AI Across Diverse Domains Despite the recent spotlight on AI in computer science applications like computer vision, AI solutions are underutilized in domains such as the Natural Sciences.</description>
     </item>
-    
     <item>
       <title>Publications</title>
-      <link>https://id-is.github.io/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://id-is.github.io/publications/</guid>
-      <description>/* Style for the button */ #topBtn { display: none; /* Hidden by default */ position: fixed; /* Fixed/sticky position */ bottom: 20px; /* Place the button at the bottom of the page */ right: 30px; /* Place the button 30px from the right */ z-index: 99; /* Make sure it does not overlap */ border: none; /* Remove borders */ outline: none; /* Remove outline */ background-color: #555; /* Background color */ color: white; /* Text color */ cursor: pointer; /* Add a pointer cursor on hover */ padding: 15px; /* Some padding */ border-radius: 10px; /* Rounded corners */ } #topBtn:hover { background-color: #333; /* Darken the button on hover */ }  2020  - 2019  - 2018  - 2017  - 2016</description>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>2020 - 2019 - 2018 - 2017 - 2016 2020 Christian Pagé, Wim Som de Cerff, Maarten Plieger, Alessandro Spinuso, Iraklis Klampanos, Malcolm Atkinson, Vangelis Karkaletsis, Integrating e-infrastructures for remote climate data processing, In EGU General Assembly 2020, May 4–8, Virtual, 2020. Iraklis Klampanos, Chrysoula Themeli, Alessandro Spinuso, Rosa Filgueira, Malcolm Atkinson, André Gemünd, Vangelis Karkaletsis, DARE Platform: a Developer-Friendly and Self-Optimising Workflows-as-a-Service Framework for e-Science on the Cloud, In Journal of Open Source Software, The Open Journal, volume 5, (Pages: 2664), 2020.</description>
     </item>
-    
   </channel>
 </rss>

@@ -5,7 +5,6 @@ draft: false
 theme_version: '2.8.2'
 cascade:
   featured_image: '/backround.png'
-
 ---
 
 ## Current Members
@@ -14,19 +13,7 @@ cascade:
   <tr>
     <td>
       <div style="display: flex; align-items: center;">
-        <img src="/iraklis.png" alt="Iraklis Klampanos" style="width:100px; height:100px; margin-right: 10px; border-radius: 50%;">
-        <div style="font-size: 12px;">
-          Iraklis Klampanos
-          <a href="https://www.linkedin.com/in/iaklampanos/">
-            <img src="/linkedin.png" alt="LinkedIn" style="width:20px; height:20px;">
-          </a><br>
-          Email: iaklampanos{at}iit.demokritos.gr
-        </div>
-      </div>
-    </td>
-    <td>
-      <div style="display: flex; align-items: center;">
-        <img src="/default.png" alt="Antonis Trompoukis" style="width:100px; height:100px; margin-right: 10px; border-radius: 50%;">
+        <img src="/antru.png" alt="Antonis Trompoukis" style="width:100px; height:100px; margin-right: 10px; border-radius: 50%;">
         <div style="font-size: 12px;">
           Antonis Trompoukis
           <a href="https://www.linkedin.com/in/antonis-troumpoukis-a8755864/">
@@ -48,8 +35,6 @@ cascade:
         </div>
       </div>
     </td>
-  </tr>
-  <tr>
     <td>
       <div style="display: flex; align-items: center;">
         <img src="/default.png" alt="Antonis Ganios" style="width:100px; height:100px; margin-right: 10px; border-radius: 50%;">
@@ -62,6 +47,8 @@ cascade:
         </div>
       </div>
     </td>
+  </tr>
+  <tr>
     <td>
       <div style="display: flex; align-items: center;">
         <img src="/vasilis.png" alt="Vasileios Vatellis" style="width:100px; height:100px; margin-right: 10px; border-radius: 50%;">
@@ -87,37 +74,20 @@ cascade:
       </div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div style="display: flex; align-items: center;">
-        <img src="/ypatia.png" alt="Ypatia Dami" style="width:100px; height:100px; margin-right: 10px; border-radius: 50%;">
-        <div style="font-size: 12px;">
-          Ypatia Dami
-          <a href="https://www.linkedin.com/in/ypatia-dami-5265a4183/">
-            <img src="/linkedin.png" alt="LinkedIn" style="width:20px; height:20px;">
-          </a><br>
-          Email: ypatia{at}iit.demokritos.gr
-        </div>
-      </div>
-    </td>
-  </tr>
 </table>
-
-
-
-
-
 
 ## Former Members
 
 <table>
   <tr>
-    <td>Sissy Themeli</td>
-    <td>Vasilis Margonis</td>
-    <td>Iris Xenaki</td>
+    <td>Iraklis Klampanos</td>
+    <td>Ypatia Dami</td>
+    <td>Athanasios Davvetas</td>
   </tr>
   <tr>
-    <td>Athanasios Davvetas</td>
+    <td>Vasilis Margonis</td>
+    <td>Sissy Themeli</td>
+    <td>Iris Xenaki</td>
   </tr>
 </table>
 
@@ -143,3 +113,4 @@ cascade:
     <td>Kostas Andrikos</td>
   </tr>
 </table>
+
