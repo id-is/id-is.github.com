@@ -13,7 +13,7 @@ cascade:
   <tr>
     <td>
       <div style="display: flex; align-items: center;">
-        <img src="/antru.png" alt="Antonis Trompoukis" style="width:100px; height:100px; margin-right: 10px; border-radius: 50%;">
+        <img src="/antru.png" alt="Antonis Troumpoukis" style="width:100px; height:100px; margin-right: 10px; border-radius: 50%;">
         <div style="font-size: 12px;">
           Antonis Trompoukis
           <a href="https://www.linkedin.com/in/antonis-troumpoukis-a8755864/">
